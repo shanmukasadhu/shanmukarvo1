@@ -1,5 +1,5 @@
-# 🧠 Robotics & Collision Avoidance Videos
-A showcase of my projects involving multi-agent systems, path planning, and Reciprocal Velocity Obstacles (RVO).
+# 🤖 Robotics & RVO Path Planning Showcase
+A collection of my work in multi-agent coordination, motion planning, and Reciprocal Velocity Obstacles (RVO), including both **real-time microMVP robot demos** and **simulation-based RVO experiments**.
 
 <style>
 .video-grid {
@@ -16,10 +16,10 @@ A showcase of my projects involving multi-agent systems, path planning, and Reci
 .video-title {
   font-weight: 600;
   margin-bottom: 6px;
-  font-size: 1.1em;
+  font-size: 1.05em;
 }
 .video-card {
-  padding: 10px;
+  padding: 12px;
   border: 1px solid #e5e5e5;
   border-radius: 10px;
   background: #fafafa;
@@ -28,13 +28,28 @@ A showcase of my projects involving multi-agent systems, path planning, and Reci
 
 ---
 
-## 🎥 Project Videos
+# 🎮 RVO Simulations
 
 <div class="video-grid">
 
 <div class="video-card">
-  <div class="video-title">microMVP Bot Collision Avoidance using RVO</div>
-  <iframe src="https://www.youtube.com/embed/Dl1cZgdcNWg" allowfullscreen></iframe>
+  <div class="video-title">RVO 2-Bot Simulation</div>
+  <iframe src="https://www.youtube.com/embed/Bf6SSVYgFqI" allowfullscreen></iframe>
+</div>
+
+<div class="video-card">
+  <div class="video-title">4-Bot RVO Path Planning with Minimal Obstacle Movement</div>
+  <iframe src="https://www.youtube.com/embed/_pizgZzexpQ" allowfullscreen></iframe>
+</div>
+
+<div class="video-card">
+  <div class="video-title">4 Obstacle Attack for RVO Path Planning</div>
+  <iframe src="https://www.youtube.com/embed/zej46d4u-Jg" allowfullscreen></iframe>
+</div>
+
+<div class="video-card">
+  <div class="video-title">Simple 4-Bot RVO Obstacle Avoidance (1 Obstacle)</div>
+  <iframe src="https://www.youtube.com/embed/msE8ndJ9veo" allowfullscreen></iframe>
 </div>
 
 <div class="video-card">
@@ -45,6 +60,39 @@ A showcase of my projects involving multi-agent systems, path planning, and Reci
 <div class="video-card">
   <div class="video-title">Collision Avoidance with 4 Moving Obstacles (RVO)</div>
   <iframe src="https://www.youtube.com/embed/E_BGj_XUTxY" allowfullscreen></iframe>
+</div>
+
+</div>
+
+---
+
+# 🚗 Real-time microMVP Bot Demonstration
+
+<div class="video-grid">
+
+<div class="video-card">
+  <div class="video-title">microMVP Bot Collision Avoidance using RVO</div>
+  <iframe src="https://www.youtube.com/embed/Dl1cZgdcNWg" allowfullscreen></iframe>
+</div>
+
+<div class="video-card">
+  <div class="video-title">2 microMVP Bot Collision Avoidance using RVO</div>
+  <iframe src="https://www.youtube.com/embed/VCVfrLHiQIU" allowfullscreen></iframe>
+</div>
+
+<div class="video-card">
+  <div class="video-title">A-R-C Letter Demonstration (10 Bots, Collision Avoidance)</div>
+  <iframe src="https://www.youtube.com/embed/dPcjwwUy0xc" allowfullscreen></iframe>
+</div>
+
+<div class="video-card">
+  <div class="video-title">A-B Letter Demonstration (10 Bots, Collision Avoidance)</div>
+  <iframe src="https://www.youtube.com/embed/SCDd_pCH7Xw" allowfullscreen></iframe>
+</div>
+
+<div class="video-card">
+  <div class="video-title">Square Pattern Demonstration (8 Bots, Collision Avoidance)</div>
+  <iframe src="https://www.youtube.com/embed/GcqD2P55QgE" allowfullscreen></iframe>
 </div>
 
 <div class="video-card">
