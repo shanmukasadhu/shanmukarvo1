@@ -4,22 +4,22 @@ A collection of my work in multi-agent coordination, motion planning, and Recipr
 <style>
 .video-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-  gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 24px;
   margin-top: 20px;
 }
 .video-grid iframe {
   width: 100%;
-  height: 200px;
+  height: 260px; /* bigger videos */
   border-radius: 8px;
 }
 .video-title {
   font-weight: 600;
   margin-bottom: 6px;
-  font-size: 1.05em;
+  font-size: 1.1em;
 }
 .video-card {
-  padding: 12px;
+  padding: 14px;
   border: 1px solid #e5e5e5;
   border-radius: 10px;
   background: #fafafa;
@@ -62,6 +62,11 @@ A collection of my work in multi-agent coordination, motion planning, and Recipr
   <iframe src="https://www.youtube.com/embed/E_BGj_XUTxY" allowfullscreen></iframe>
 </div>
 
+<div class="video-card">
+  <div class="video-title">Four Bot Path Planning with Collision Avoidance</div>
+  <iframe src="https://www.youtube.com/embed/YJhESl0awLs" allowfullscreen></iframe>
+</div>
+
 </div>
 
 ---
@@ -93,11 +98,6 @@ A collection of my work in multi-agent coordination, motion planning, and Recipr
 <div class="video-card">
   <div class="video-title">Square Pattern Demonstration (8 Bots, Collision Avoidance)</div>
   <iframe src="https://www.youtube.com/embed/GcqD2P55QgE" allowfullscreen></iframe>
-</div>
-
-<div class="video-card">
-  <div class="video-title">Four Bot Path Planning with Collision Avoidance</div>
-  <iframe src="https://www.youtube.com/embed/YJhESl0awLs" allowfullscreen></iframe>
 </div>
 
 </div>
